@@ -17,7 +17,7 @@ solution.py – main compression script
 compressed_output.mp4 – compressed video output  
 segments_kept.json – kept frame segments for pipeline integration  
 compression_report.html – compression analysis report  
-demo.mp4 – screen recording demonstration  
+Adarsh_230054.mp4 – screen recording demonstration  
 
 ## Requirements
 
